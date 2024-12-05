@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and
+# folders related to the .NET build system
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+
+# Auto-generated files (Assembly info)
+*.AssemblyInfoInputs.cache
+*.AssemblyInfo.cache
+
+# Visual Studio folder
+.vs/
+
+# Debug output
+debug/
